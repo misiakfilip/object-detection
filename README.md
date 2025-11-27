@@ -154,9 +154,11 @@ This project is available under the MIT License. See the `LICENSE` file for deta
 
 ## Author
 
-**Filip**
+**Filip Misiak**
 
 - GitHub: [@misiakfilip](https://github.com/misiakfilip)
+
+**Adam Kowalczyk**
 
 ## Acknowledgments
 
