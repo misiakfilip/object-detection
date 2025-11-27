@@ -1,0 +1,5 @@
+Class,Color,Scores,Box Coordinates
+cup,Purple,0.8870698,"(np.float32(0.41648185), np.float32(0.30685195), np.float32(0.6384125), np.float32(0.44454017))"
+laptop,Purple,0.8106457,"(np.float32(0.26865327), np.float32(0.003616929), np.float32(0.984801), np.float32(0.59693575))"
+cell phone,Black,0.6995183,"(np.float32(0.7333913), np.float32(0.6567489), np.float32(0.95075446), np.float32(0.9457612))"
+dining table,Purple,0.5560136,"(np.float32(0.25545675), np.float32(0.009154379), np.float32(0.98462826), np.float32(0.651798))"

@@ -1,0 +1,6 @@
+Class,Color,Scores,Box Coordinates
+cup,Pink,0.8432256,"(np.float32(0.3049071), np.float32(0.5833502), np.float32(0.65042585), np.float32(0.85193026))"
+cup,Blue,0.76805735,"(np.float32(0.40242863), np.float32(0.27600634), np.float32(0.6900043), np.float32(0.41491354))"
+spoon,Pink,0.5574504,"(np.float32(0.18739155), np.float32(0.27514967), np.float32(0.44900838), np.float32(0.34059653))"
+cup,Purple,0.52792543,"(np.float32(0.08735846), np.float32(0.51935303), np.float32(0.61676514), np.float32(0.73385537))"
+vase,Purple,0.51021105,"(np.float32(0.06192148), np.float32(0.4982679), np.float32(0.6315251), np.float32(0.72011733))"
