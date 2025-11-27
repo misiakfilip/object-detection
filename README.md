@@ -218,7 +218,3 @@ pip install -r requirements.txt
 - Supports batch processing with configurable thread count
 - Memory efficient with streaming processing
 - Database operations optimized with connection pooling
-
----
-
-If you like this project, please star it on GitHub!
